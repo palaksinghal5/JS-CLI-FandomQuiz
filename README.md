@@ -6,7 +6,7 @@
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Kneelllll!!!, Instructions to play the quiz!..***
 
-✔ Click [here](replit.com/@palaksinghal/mark-2#index.jsembed=1&output=1) to play the game<br>
+✔ Click [here](https://replit.com/@palaksinghal/mark-2) to play the game<br>
 ✔ Fill details as asked throughout the quiz<br>
 ✔ Write your answer and press `enter`<br>
 ✔ For every correct answer you get one point.<br>
